@@ -1,6 +1,7 @@
 # snake-game
 
 This is a vey simple snake game in java which calculates, stores and updates the highscore in a file called highscore.txt
+Uses arraylist<point>
 
 components:
 resetGame(): Initializes or resets the game state.
